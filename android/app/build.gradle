@@ -117,3 +117,11 @@ dependencies {
         implementation jscFlavor
     }
 }
+
+/**
+ * React Native Vector Icons Configuration
+ * This line applies the vector icons gradle script which:
+ * 1. Automatically copies icon font files to your android/app/src/main/assets/fonts folder
+ * 2. Ensures the fonts are packaged with your APK
+ */
+apply from: file("../../node_modules/react-native-vector-icons/fonts.gradle")
