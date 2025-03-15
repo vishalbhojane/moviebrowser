@@ -26,7 +26,7 @@ Movie Browser is an android application built using React Native. It displays a 
 
 ### Installation
 
-1. Cone the repo
+1. Clone the repo
 2. Open the repo in code editor and install the dependencies using command `npm install`
 
 ### Running the app
