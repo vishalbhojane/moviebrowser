@@ -1,4 +1,4 @@
-package com.movielist
+package com.moviebrowser
 
 import android.app.Application
 import com.facebook.react.PackageList

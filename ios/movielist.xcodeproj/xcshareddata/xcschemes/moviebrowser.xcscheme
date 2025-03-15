@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "movielist.app"
-               BlueprintName = "movielist"
-               ReferencedContainer = "container:movielist.xcodeproj">
+               BuildableName = "moviebrowser.app"
+               BlueprintName = "moviebrowser"
+               ReferencedContainer = "container:moviebrowser.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "movielistTests.xctest"
-               BlueprintName = "movielistTests"
-               ReferencedContainer = "container:movielist.xcodeproj">
+               BuildableName = "moviebrowserTests.xctest"
+               BlueprintName = "moviebrowserTests"
+               ReferencedContainer = "container:moviebrowser.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "movielist.app"
-            BlueprintName = "movielist"
-            ReferencedContainer = "container:movielist.xcodeproj">
+            BuildableName = "moviebrowser.app"
+            BlueprintName = "moviebrowser"
+            ReferencedContainer = "container:moviebrowser.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "movielist.app"
-            BlueprintName = "movielist"
-            ReferencedContainer = "container:movielist.xcodeproj">
+            BuildableName = "moviebrowser.app"
+            BlueprintName = "moviebrowser"
+            ReferencedContainer = "container:moviebrowser.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
